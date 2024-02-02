@@ -35,6 +35,56 @@ PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #1
 
     *******IMPORTNAT DEFINATION*******
 
+  >Docker is an open platform for developing, shipping, and running applications. 
+  >We can create any number of container using same image.
+  >Docker images are sharable through container registry like docker hub ,AWS ECR.
+
+
+  #DOCKER ARCHITECTURE
+
+  1. Docker uses a client-server architecture.
+
+  2.The Docker client talks to the Docker daemon, which does the heavy lifting 
+    of building, running, and distributing your Docker containers.
+
+  3.The Docker client and daemon communicate using a REST API, over UNIX 
+    sockets or a network interface.
+
+  DOCKER DAEMON 
+
+  1.The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as 
+  images, containers, networks, and volumes. 
+
+  DOCKER client
+
+  1.The Docker client (docker) is the primary way that many Docker users interact with Docker. When you use commands such as docker run,
+   the client sends these commands to dockerd, which carries them out.
+
+  DOCKER DESKTOP
+
+  1.Docker Desktop is an easy-to-install application for your Mac, Windows or Linux environment that enables you to 
+  build and share containerized applications and microservices.
+
+  DOCKER REGISTRY
+
+  1.A Docker registry stores Docker images
+
+  DOCKER OBJECTS 
+
+  1.When you use Docker, you are creating and using 
+    images, containers, networks, volumes, plugins, and other objects.
+
+  DOCKER IMAGES 
+
+  1.An image is a read-only template with instructions for creating a Docker container.
+
+  DOCKER CONTAINERS 
+
+  1.A container is a runnable instance of an image
+
+
+
+
 
 
 
