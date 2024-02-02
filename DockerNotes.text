@@ -19,18 +19,18 @@ PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #1
     to run by installing all packages/dependency we call this isolated environment as container.
 
 
-    PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #2
+  PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #2
 
-    1.If we are having three application running on same host for security reason we need to
+  1.If we are having three application running on same host for security reason we need to
        isolated the application .Solution comes in our mind to deploy these three application
        on three different host but this will not work as it is more cost effective
 
-    2.Second thought will three different VMs on single host.This is also effective but
+  2.Second thought will three different VMs on single host.This is also effective but
       VM takes lost of resources.
 
-    SOLUTION AFTER IMPLEMENTING DOCKER
+  SOLUTION AFTER IMPLEMENTING DOCKER
 
-    1. We will create three 3 images of 3 application and will run this application by this way
+  1. We will create three 3 images of 3 application and will run this application by this way
        they will run in isolated environment which is called Containers.
 
     *******IMPORTNAT DEFINATION*******
