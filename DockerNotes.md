@@ -42,8 +42,8 @@
 
 
   ## DOCKER ARCHITECTURE
-
-1. Docker uses a client-server architecture.
+  <br>
+  1. Docker uses a client-server architecture.
 
   2.The Docker client talks to the Docker daemon, which does the heavy lifting 
     of building, running, and distributing your Docker containers.
