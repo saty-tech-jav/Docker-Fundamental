@@ -1,2 +1,40 @@
 #NOTES OF DOCKER FUNDAMENTALS FOR CREATING IMAGES#
 
+PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #1
+
+1.Time consuming 
+2.Compatibility issues 
+3.Error prone issues
+>>developer will devlope java code having version of java 10 and when 
+  QA will run this code on his system having java version 8 it will not
+  work .Hence docker came into picture
+
+  SOLUTION WITH DOCKER
+
+  1.Docker packages the application and dependency required to run the application into the
+    single bundle and ship it to the target environment.In docker world we call this bundle with
+    as image.
+
+  2.When we run this image in QA environment this creates an isolated environment for the application
+    to run by installing all packages/dependency we call this isolated environment as container.
+
+
+    PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  #2
+
+    1.If we are having three application running on same host for security reason we need to
+       isolated the application .Solution comes in our mind to deploy these three application
+       on three different host but this will not work as it is more cost effective
+
+    2.Second thought will three different VMs on single host.This is also effective but
+      VM takes lost of resources.
+
+    SOLUTION AFTER IMPLEMENTING DOCKER
+
+    1. We will create three 3 images of 3 application and will run this application by this way
+       they will run in isolated environment which is called Containers.
+
+    *******IMPORTNAT DEFINATION*******
+
+
+
+
