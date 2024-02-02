@@ -2,11 +2,11 @@
 
 ## PROBLEM STATEMENT IF WE ARE NOT USING DOCKER  statement-1
 
-1.Time consuming 
-2.Compatibility issues 
-3.Error prone issues
+1.Time consuming <br> 
+2.Compatibility issues <br>
+3.Error prone issues<br>
 
-  developer will devlope java code having version of java 10 and when 
+  Developer will devlope java code having version of java 10 and when 
   QA will run this code on his system having java version 8 it will not
   work .Hence docker came into picture
 
