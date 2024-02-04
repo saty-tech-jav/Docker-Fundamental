@@ -1,8 +1,9 @@
 # IMPORTNAT COMMAND FOR DOCKER
 
-### CONNECTING TO DOCKER HUB
+## CONNECTING TO DOCKER HUB
 
-1.If not able to login on docker
+## If not able to login on docker
+
 <br>
 $ winpty docker login $ACR_REGISTRY
 <br>
@@ -14,3 +15,5 @@ Login Succeeded
 <br>
 
 normal way:docker login -u LOGIN -p PASSWORD
+
+## DOCKER BASIC COMMAND
