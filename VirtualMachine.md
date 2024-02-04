@@ -20,7 +20,7 @@
   not utilized and inefficiency was observed.
   <br>
 
-  ![Without virtualisation](image-3.png)
+  ![Without virtualisation](allimage/image-3.png)
 
 ## SOLUTION WITH VIRTUALISATION
 
@@ -36,4 +36,4 @@
 
   5.Hypervisior is VM WARE or XEN.
 
-  ![Virtualisation](image-2.png)
+  ![Virtualisation](allimage/image-2.png)

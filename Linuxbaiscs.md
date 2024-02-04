@@ -35,7 +35,7 @@
 
 ### kernel is acting Bridge between Hardware and Software
 
-![OS](image-9.png)
+![OS](allimage/image-9.png)
 
 
 

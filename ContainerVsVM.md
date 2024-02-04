@@ -12,7 +12,7 @@
 
 ### 2.Second method on the top of Physical servers
 
-![model 2](image-5.png)
+![model 2](allimage/image-5.png)
 <br>
 
 ### 3.ABOUT CONTAINERS
@@ -20,4 +20,4 @@
 1.Containers are light weight in nature because they donot have full operating system
   they have shared OS from host on which conatiners are running.
 
-  ![container defination](image-8.png)
+  ![container defination](allimage/image-8.png)
