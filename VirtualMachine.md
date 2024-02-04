@@ -19,4 +19,4 @@
 1.Without virtualisation earlier when something was hosted on the server properly resources were
   not utilized and inefficiency was observed.
 
-  !![Virtualisation](image.png)
+  ![Virtualisation](image.png)
