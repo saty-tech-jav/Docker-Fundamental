@@ -6,7 +6,7 @@
 ### 1.First method on the top of virtual machines(More preferred model because of less maintainece)
 <br>
 
-![model 1](/assets/images/allimage/image-7.png)
+![model 1](allimage/image-7.png)
 
 <br>
 
