@@ -20,8 +20,8 @@ normal way:docker login -u LOGIN -p PASSWORD
 
 ### BUILD IMAGES
 
-1.docker build -t sat/first-image:latest .
-  (sat is name of repo on docker hub and first image is tag)
+1.docker build -t satytechjava/first-image:latest .
+  (satytechjava is the user name of dockerhub and first-image is tag)
 
 ### RUN IMAGES==CONTAINER
 
@@ -30,4 +30,7 @@ normal way:docker login -u LOGIN -p PASSWORD
 ![image will also be present in desktop](allimage/image10.png)
 
 ### PUSH IMAGE TO DOCKER HUB
+
+1.docker push satytechjava/my-image
+
 
