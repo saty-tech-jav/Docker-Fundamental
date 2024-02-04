@@ -33,4 +33,8 @@ normal way:docker login -u LOGIN -p PASSWORD
 
 1.docker push satytechjava/my-image
 
+### DOCKER IMAGES LIST
+
+1.docker images
+
 
