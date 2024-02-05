@@ -71,7 +71,7 @@
 ![linux vs windows](allimage/image12.png)
 
 
-### LINUX
+### LINUX FILE HIERARCHY
 
 ![file hierarchy](allimage/image13.png)
 
