@@ -33,7 +33,7 @@
 5.Fast
 <br>
 
-### kernel is acting Bridge between Hardware and Software
+### KERNEL IS ACTING BRIDGE BETWEEN HARDWARE AND SOFTWARE
 
 ![OS](allimage/image-9.png)
 
