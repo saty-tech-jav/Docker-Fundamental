@@ -79,7 +79,7 @@ then press :wq
 ### 4.nano command
 <br>
 
-#### STEPS
+#### STEPS FOR USING NANO COMMAND
 
 nano file2
 <br>
