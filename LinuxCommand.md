@@ -39,11 +39,11 @@ cat file1 file2 > file3
 <br>
 
 
-### 1.4 cat command is used to copy files 
+#### 1.4 cat command is used to copy files 
 
 <br>
 
-### 1.5 cat command is used to read from bottom to first
+#### 1.5 cat command is used to read from bottom to first
 <br>
 
 ### 2.touch command
