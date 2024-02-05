@@ -68,12 +68,12 @@
 1.("\") backward slash is used in windows- C:\
 <br>
 
-![linux vs windows](image12.png)
+![linux vs windows](allimage/image12.png)
 
 
 ### LINUX
 
-![file hierarchy](image13.png)
+![file hierarchy](allimage/image13.png)
 
 
 
