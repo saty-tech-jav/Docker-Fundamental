@@ -43,6 +43,12 @@ cat file1 file2 > file3
 
 <br>
 
+#### STEPS
+
+cat file1 > file2 
+
+(data will be copied into file 2 and original data vanished)
+
 #### 1.5 cat command is used to read from bottom to first
 <br>
 
@@ -56,6 +62,10 @@ tac file1
 <br>
 
 ![touch command](allimage/image14.png)
+
+#### PRACTICAL
+
+![Alt text](allimage/image16.png)
 
 ### 3.vi/vim command(IT IS EDITOR ALSO)
 <br>
