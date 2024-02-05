@@ -38,5 +38,20 @@
 ![OS](allimage/image-9.png)
 
 
+### FEATURE ABOUT LINUX:
+
+1.Linux is Kernel not Operating System.
+<br>
+2.Linux is not a UNIX Derivative. It is wriiten from scratch
+<br>
+3.Linux distribution is the linux kernel and collection of
+  software together create an Operating System.
+<br>
+
+### WINDOWS VS LINUX FEATURES
+
+![Linux vs Windows](allimage/image11.png)
+
+
 
 
