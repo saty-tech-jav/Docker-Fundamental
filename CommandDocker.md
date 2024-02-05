@@ -81,9 +81,13 @@ normal way:docker login -u LOGIN -p PASSWORD
 ### 12.REMOVE A STOP CONTAINER
 
 1.Running container cannot be removed so first stopped it 
+<br>
   1.1 docker stop e7f1e36b1365 15c2c2bc0525
+<br>
   1.2 docker rm e7f1e36b1365 15c2c2bc0525
+<br>
   1.3 then for checking docker ps -a
+<br>
 
 ### 13.GIVING NAME TO CONTAINER
 
