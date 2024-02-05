@@ -40,6 +40,7 @@
 
 ### FEATURE ABOUT LINUX:
 
+
 1.Linux is Kernel not Operating System.
 <br>
 2.Linux is not a UNIX Derivative. It is wriiten from scratch
@@ -49,6 +50,7 @@
 <br>
 
 ### WINDOWS VS LINUX FEATURES
+
 
 ![Linux vs Windows](allimage/image11.png)
 
