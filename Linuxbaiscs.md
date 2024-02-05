@@ -1,6 +1,6 @@
 # LINUX AND SHELL SCRIPTING BASIC
 
-### OPERATING SYSTEM
+## OPERATING SYSTEM
 <br>
 
 1.An operating system (OS) is a software program that serves as an intermediary between computer hardware and user applications.
