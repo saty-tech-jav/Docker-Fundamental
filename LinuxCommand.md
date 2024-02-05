@@ -46,13 +46,48 @@ cat file1 file2 > file3
 #### 1.5 cat command is used to read from bottom to first
 <br>
 
-### 2.touch command
+#### STEPS
+<br>
+
+tac file1
+
+
+### 2.touch command (For changing timestamp)
 <br>
 
 ![touch command](allimage/image14.png)
 
-### 3.vi/vim command
+### 3.vi/vim command(IT IS EDITOR ALSO)
+<br>
+
+![vi command](allimage/image15.png)
+
+#### STEPS FOR USING vi/vim commands
+
+<br>
+vim file1
+<br>
+press i in keyboard
+<br>
+add text or edit text
+<br>
+press esc
+<br>
+then press :wq
 <br>
 
 ### 4.nano command
+<br>
+
+#### STEPS
+
+nano file2
+<br>
+write or edit
+<br>
+ctrl x
+<br>
+shift+y
+<br>
+enter
 <br>
