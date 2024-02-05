@@ -49,6 +49,8 @@ cat file1 file2 > file3
 ### 2.touch command
 <br>
 
+![touch command](allimage/image14.png)
+
 ### 3.vi/vim command
 <br>
 
