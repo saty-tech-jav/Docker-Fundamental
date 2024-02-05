@@ -55,5 +55,26 @@
 ![Linux vs Windows](allimage/image11.png)
 
 
+1.In windows FOLDER In LINUX Directory
+<br>
+2.In windows Administrator but in LINUX Root User
+<br>
+3.In windows Software but in LINUX Packages
+
+## FILE SYSTEM HIERARCHY
+
+### WINDOWS
+
+1.("\") backward slash is used in windows- C:\
+<br>
+
+![linux vs windows](image12.png)
+
+
+### LINUX
+
+![file hierarchy](image13.png)
+
+
 
 
