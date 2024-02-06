@@ -64,3 +64,42 @@
 <br>
 
 ## COPY A FILE, CUT A FILE ,RENAME A FILE COMMANDS WITH DIFFERENT SCENERIOS
+
+### COPY A FILE
+
+<br>
+
+1.cp command is used for copying files and directories
+
+<br>
+
+#### CONDITION 1:Want to copy file content from file which is present in child directory to file which is present in parent directory and user is in child directory
+
+<br>
+
+1.cp file2 ../file1
+
+<br>
+
+#### CONDITION 2:Want to copy file content from file which is present in child directory to file which is present in parent directory and user is in parent directory
+
+<br>
+
+
+1.cp dire2/file2 file1
+
+<br>
+
+#### CONDITION 3:Want to copy file content from file which is present in Parent directory to file which is present in child directory and user is in Parent directory
+
+<br>
+
+1.cp file1 dire2/file2
+
+<br>
+
+#### CONDITION 4:Want to copy file content from file which is present in Parent directory to file which is present in child directory and user is in child directory
+
+<br>
+
+1.cp ../file1 file2
