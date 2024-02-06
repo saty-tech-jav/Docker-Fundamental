@@ -36,6 +36,11 @@
 
 <br>
 
+9.cp file1 dire2  (copy file from 1 directory to another)
+
+<br>
+
+
 
 ## CREATE HIDDEN FILE OR DIRECTORY
 
