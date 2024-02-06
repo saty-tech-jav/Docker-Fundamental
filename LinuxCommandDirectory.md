@@ -108,3 +108,30 @@
 <br>
 
 1.cp ../file1 file2
+
+### CUT PASTE FILE IN DIRECTORY
+
+1.mv file1 dire2
+
+2.mv file1 ../  (From child directory to parent directory)
+
+### RENAME FILE
+
+1.mv file1 file2 (Rename will happen)
+
+### DELETE COMMANDS
+
+1.rm -rf dire1
+
+### PAGE CONTENT COMMAND
+
+1.less file55 (Content in single page will be displayed)
+   To exit press "q"
+
+2.head file55 (initial 10 lines will be displayed)
+
+3.tail file55 (last 10 lines will be displayed)
+
+4.more file55
+
+5.history
